@@ -1,0 +1,22 @@
+from hw05 import *
+
+s = hailstone(10)
+
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
+print(next(s))
